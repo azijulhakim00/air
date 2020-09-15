@@ -1,0 +1,99 @@
+body{
+	margin: o
+}
+header {
+	background-image: url(../images/bg.jpg);
+	padding: 200px;
+	background-repeat: no-repeat;
+}
+.container{
+	width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+.col-1{
+	width: 25%;
+	float: left;
+
+}
+.col-2{
+	width: 75%;
+	float: left;
+}
+p{
+	color: #fff;
+	font-size: 22px;
+}
+a{
+	background: #ef3468;
+	color: #fff;
+	font-size: 22px;
+	text-decoration: none;
+	padding: 12px 55px;
+	display: inline-block;
+	border-radius: uppercase;
+}
+img{
+	max-width: 100%;
+	width: 300px;
+	margin-left: auto;
+	display: block;
+	float: right;
+}
+header h1{
+	font-size: 70px;
+	color: #fff;
+	margin: 0;
+	margin-top: 150px;
+
+}
+.about-pnp{
+	text-align: center;
+
+}
+.about-pnp h1{
+		font-size: 60px;
+		margin: 0;
+
+}
+.about-pnp p{
+	font-size: 22px;
+	color: #5c5c6b;
+	margin-bottom:30px; 
+
+}
+.about-pnp strong{
+	color: #000
+
+}
+.feature-section{
+	padding: 50px 0;
+	background-color: #ddd;
+	text-align: center
+
+}
+.col-3{
+	width: 50%;
+	float: left;
+	text-align: center;
+	position: 0px 100px;
+	box-sizing: border-box;
+}
+.feature-section p{
+	font-size: 22px;
+	color:#5c5c6b;
+	margin:0;
+	margin-bottom: 35;
+	padding: 5px;
+}
+.feature-section h2{
+	color:#ef3468;
+	font-weight: 400; 
+	font-size: 22px;
+	margin: 0;
+	padding: 5px;
+}
+.line{
+	border-right:5px solid #ef3468;
+
+}
